@@ -1,4 +1,4 @@
-score = 85
+score = int(input("enter your score"))
 if score >= 50:
     print("you passed!")
 else:
