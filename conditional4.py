@@ -1,4 +1,4 @@
-age = 15 
+age = int(input("enter age:"))
 
 if age > 18:
     print("This person is an adult.")
